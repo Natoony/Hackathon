@@ -10,7 +10,6 @@ It builds a baseline of "normal" behavior for each customer and flags transactio
 `app.py` – Interactive Streamlit web interface.
 `sample_transactions.csv` – Sample dataset containing labeled synthetic fraud.
 `requirements.txt` – Python dependencies.
-`fraud_results.png` – Benchmark visual output generated from model tests.
 
 > Keep all files in the same root directory when running the tool.
 

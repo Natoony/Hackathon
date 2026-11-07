@@ -62,7 +62,7 @@ if source == "Demo data":
     raw = demo_data()
 else:
     st.info(
-        "**CSV tip: use these columns, in this order**\n\n"
+        "CSV tip: use these columns, in this order\n\n"
         "1. `customer`: who paid (a name or ID)\n"
         "2. `timestamp`: date and time, like `2026-03-02 09:15:00`\n"
         "3. `amount`: a number, like `4.50`\n"

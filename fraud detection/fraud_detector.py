@@ -448,7 +448,6 @@ def run_demo(args):
 
 
 def run_benchmark(args):
-    # same thing on several random datasets, so one lucky split doesn't decide the numbers
     frames = []
     for i in range(args.runs):
         seed = args.seed + i
